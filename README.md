@@ -1,2 +1,2 @@
 # exercicio_php
-#Exercício feito de php
+#Exercícios feito de php
